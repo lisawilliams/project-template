@@ -11,6 +11,7 @@
     "fresh": "^0.5.2",
     "grunt-serve": "^0.1.6",
     "hawk": "^7.0.7",
+    "lodash": "^4.17.11",
     "mime": "^2.3.1",
     "minimatch": "^3.0.4",
     "negotiator": "^0.6.1",
